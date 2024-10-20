@@ -1,0 +1,14 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8004: Output 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Output 目錄。
+  Main.c
+C:\Users\Administrator\Desktop\HW2\4_28\4_28\Main.c(10,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Administrator\Desktop\HW2\4_28\4_28\Main.c(15,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Administrator\Desktop\HW2\4_28\4_28\Main.c(20,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Administrator\Desktop\HW2\4_28\4_28\Main.c(22,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Administrator\Desktop\HW2\4_28\4_28\Main.c(30,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Administrator\Desktop\HW2\4_28\4_28\Main.c(35,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Administrator\Desktop\HW2\4_28\4_28\Main.c(37,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Administrator\Desktop\HW2\4_28\4_28\Main.c(6,14): warning C4101: 'managers': 未參考的區域變數
+C:\Users\Administrator\Desktop\HW2\4_28\4_28\Main.c(6,42): warning C4101: 'pieceworkers': 未參考的區域變數
+C:\Users\Administrator\Desktop\HW2\4_28\4_28\Main.c(6,33): warning C4101: 'mission': 未參考的區域變數
+C:\Users\Administrator\Desktop\HW2\4_28\4_28\Main.c(6,24): warning C4101: 'workers': 未參考的區域變數
+  4_28.vcxproj -> C:\Users\Administrator\Desktop\HW2\4_28\4_28\4_28.exe
